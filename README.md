@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abrar7286
 - 👀 I’m interested in programming and computers
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on Backend Development.
+- 🌱 I’m currently learning Artificial Intelligence.
+- 💞️ I’m looking to collaborate on Fullstack Development.
 - 📫 Email me at abrar7286@gmail.com
 
 <!---
