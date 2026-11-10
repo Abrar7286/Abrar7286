@@ -2,7 +2,7 @@
 
 ### Software Engineer | AI/ML & Quantum Computing | MSc Computer Science @ JKU Linz
 
-I'm a Computer Science graduate and Master's student at **Johannes Kepler University Linz (JKU), Austria)** with a background in software engineering, full-stack development, and backend development.
+I'm a Computer Science graduate and Master's student at **Johannes Kepler University Linz JKU, Austria** with a background in software engineering, full-stack development, and backend development.
 
 I'm currently expanding my work toward **Artificial Intelligence, Machine Learning, Scientific Computing, and Quantum Computing**.
 
